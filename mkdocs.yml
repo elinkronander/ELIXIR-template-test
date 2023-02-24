@@ -18,8 +18,8 @@ theme:
     - navigation.tabs
 
 # Repository
-repo_name: ELIXIR-FAIR-Training/ELIXIR-lesson-template
-repo_url: https://github.com/ELIXIR-FAIR-Training/ELIXIR-lesson-template
+repo_name: elinkronander/ELIXIR-lesson-template
+repo_url: https://github.com/elinkronander/ELIXIR-lesson-template
 edit_uri: edit/main/docs/
 
 plugins:
@@ -29,7 +29,7 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
-copyright: Licence; This material is made avaailiable under a CC-BY licence
+#copyright: Licence; This material is made avaailiable under a CC-BY licence
 
 markdown_extensions:
   - abbr
