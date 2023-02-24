@@ -6,7 +6,7 @@ nav:
       - Course schedule: course_schedule.md
     - Chapters:
       - "Chapter 1": chapters/chapter_01.md
-        - "Chapter 2": chapters/chapter_02.md
+      - "Chapter 2": chapters/chapter_02.md
     - Keywords list: keywords.md
 
 theme:
