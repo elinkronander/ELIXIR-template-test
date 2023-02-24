@@ -29,7 +29,7 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
-copyright: Licence: This material is made avaailiable under a CC-BY licence
+copyright: Licence; This material is made avaailiable under a CC-BY licence
 
 markdown_extensions:
   - abbr
