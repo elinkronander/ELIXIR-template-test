@@ -1,7 +1,7 @@
 ---
 tags:
     - Introduction
-    - Python
+    - Pyth
     - Programming
     - Training
 ---
