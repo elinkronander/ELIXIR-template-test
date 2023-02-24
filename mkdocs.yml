@@ -6,7 +6,7 @@ nav:
       - Course schedule: course_schedule.md
     - Chapters:
       - "Chapter 1": chapters/chapter_01.md
-      - "Chapter 2": chapters/chapter_02.md
+        - "Chapter 2": chapters/chapter_02.md
     - Keywords list: keywords.md
 
 theme:
@@ -29,6 +29,7 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
+copyright: Licence: This material is made avaailiable under a CC-BY licence
 
 markdown_extensions:
   - abbr
