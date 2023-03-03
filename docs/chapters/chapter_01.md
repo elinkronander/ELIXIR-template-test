@@ -1,7 +1,7 @@
 ---
 tags:
     - Introduction
-    - Pyth
+    - Python
     - Programming
     - Training
 ---
@@ -20,4 +20,11 @@ tags:
 ```
 # How to add chapters
 
-In order to add a new chapter yo need to work on the main branch?
+In order to add a new chapter yo need to work on the main branch
+---
+!!! example "Exercise"
+    this is a question
+
+    ??? success "Solution"
+        this is the soluiton to the question
+---

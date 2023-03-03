@@ -1,21 +1,28 @@
 site_name: ELIXIR lesson
 nav:
-    - Home: index.md
+    - Home: overview.md
     - General info: 
       - Precourse preparations: precourse.md
       - Course schedule: course_schedule.md
     - Chapters:
       - "Chapter 1": chapters/chapter_01.md
       - "Chapter 2": chapters/chapter_02.md
+      - "Chapter 3": chapters/chapter_03.md
     - Keywords list: keywords.md
 
 theme:
   name: material
-  logo: assets/images/white-orange-logo.png
+  logo: assets/images/white-orange-logo.png 
   favicon: assets/images/elixir_favicon.ico
   custom_dir: overrides
   features:
-    - navigation.tabs
+    - navigation.footer
+    - navigation.top
+    - toc.integrate
+    #- navigation.tabs
+    #- navigation.sections
+    #- navigation.indexes
+    
 
 # Repository
 repo_name: elinkronander/ELIXIR-lesson-template
@@ -29,7 +36,8 @@ plugins:
   - bibtex:
       bib_file: "references.bib"
   
-copyright: Licence; This material is made avaailiable under a CC-BY licence
+# Footer
+copyright: Licence; Creation of this material was funded by project# and is made availiable under a CC-BY licence
 
 markdown_extensions:
   - abbr
@@ -41,7 +49,8 @@ markdown_extensions:
       guess_lang: false
   - sane_lists
   - smarty
-  - toc
+  - toc:
+      toc_depth: 3
   - pymdownx.superfences
   - attr_list
   - pymdownx.tabbed
