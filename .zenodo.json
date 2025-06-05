@@ -24,9 +24,9 @@
     "access_right": "open",
     "related_identifiers": [
         {
-            "identifier": "https://doi.org/10.5555/666655554444",
-            "relation": "isSupplementTo",
-            "resource_type": "publication-article"
+            "identifier": "https://doi.org/10.5281/zenodo.7913091",
+            "relation": "isDerivedFrom",
+            "resource_type": "software"
         }
     ],
     "keywords": [
