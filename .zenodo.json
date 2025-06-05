@@ -24,7 +24,7 @@
     "access_right": "open",
     "related_identifiers": [
         {
-            "identifier": "https://doi.org/10.5281/zenodo.7913091",
+            "identifier": "https://github.com/elixir-europe-training/ELIXIR-TrP-LessonTemplate-MkDocs",
             "relation": "isDerivedFrom",
             "resource_type": "software"
         }
