@@ -35,5 +35,6 @@
         "lesson template"
     ],
     "upload_type": "lesson",
-    "language": "eng"
+    "language": "eng",
+    "grants": [{"id":"101094587"}]
 }
