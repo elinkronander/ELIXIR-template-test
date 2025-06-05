@@ -19,7 +19,13 @@
         }
     ],
     "title": "The ELIXIR Training Lesson Template - Developing Training Together",
-    "access_right": "open"
+    "access_right": "open",
+    "related_identifiers": [
+        {
+            "identifier": "https://doi.org/10.5555/666655554444",
+            "relation": "isSupplementTo",
+            "resource_type": "publication-article"
+        }
     ],
     "keywords": [
         "collaborative education", 
