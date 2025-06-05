@@ -19,6 +19,8 @@
         }
     ],
     "title": "The ELIXIR Training Lesson Template - Developing Training Together",
+    "description" : "This is a description",
+    "abstract": "This is an abstract",
     "access_right": "open",
     "related_identifiers": [
         {
