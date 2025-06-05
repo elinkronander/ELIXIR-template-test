@@ -9,13 +9,16 @@
     ],
     "contributors": [
         {
-            "name": "Lovelace, Ada",
-            "type": "Researcher"
+            "name": "",
+            "orcid": "",
+            "affiliation": "",
+            "type": ""
         },
         {
-            "name": "Babbage, Charles",
-            "affiliation": "University of Cambridge",
-            "type": "ProjectLeader"
+            "name": "",
+            "orcid": "",
+            "affiliation": "",
+            "type": ""
         }
     ],
     "title": "The ELIXIR Training Lesson Template - Developing Training Together",
