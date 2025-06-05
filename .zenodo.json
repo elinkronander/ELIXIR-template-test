@@ -3,7 +3,7 @@
         {
             "name": "Carberry, Josiah",
             "orcid": "0000-0002-1825-0097",
-            "affiliation": " https://ror.org/00enajs79",
+            "affiliation": "00enajs79",
             "type": "Author"
         }
     ],
@@ -18,22 +18,14 @@
             "type": "ProjectLeader"
         }
     ],
-    "title": "Memory bus simulation scripts",
-    "version": "1.8.0",
+    "title": "The ELIXIR Training Lesson Template - Developing Training Together",
     "access_right": "open",
-    "related_identifiers": [
-        {
-            "identifier": "https://doi.org/10.5555/666655554444",
-            "relation": "isSupplementTo",
-            "resource_type": "publication-article"
-        }
     ],
     "keywords": [
-        "computer science",
-        "psychoceramics",
-        "journaling filesystems"
+        "collaborative education", 
+        "training ELIXIR ELIXIR Training Platform", 
+        "lesson template"
     ],
-    "license": "mit",
-    "upload_type": "software",
+    "upload_type": "lesson",
     "language": "eng"
 }
