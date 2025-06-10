@@ -5,6 +5,13 @@
             "orcid": "0000-0002-1825-0097",
             "affiliation": "NBIS",
             "type": "Author"
+        },
+        {
+            "name": "SLUB Dresden",
+            "ror": "03wf51b65",
+            "gnd": "5165770-3",
+            "role": "hostinginstitution",
+            "type": "organizational"
         }
     ],
     "title": "The ELIXIR Training Lesson Template - Developing Training Together",
